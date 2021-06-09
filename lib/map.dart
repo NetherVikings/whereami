@@ -29,10 +29,10 @@ class map extends StatelessWidget {
         layers: [
           new TileLayerOptions(
             urlTemplate:
-                'https://api.mapbox.com/styles/v1/jchay-dev/ckpnirpaj0ily19lcu2tis4sm/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiamNoYXktZGV2IiwiYSI6ImNrcG5lazRwaTFxOGsydmxyb2h1eWl0bnkifQ._bQrF0MOqM2o26dLMTYb1A',
+                'https://api.mapbox.com/styles/v1/jchay-dev/ckpnirpaj0ily19lcu2tis4sm/tiles/256/{z}/{x}/{y}@2x?access_token=*****************************************
             additionalOptions: {
               'accessToken':
-                  'pk.eyJ1IjoiamNoYXktZGV2IiwiYSI6ImNrcG5lazRwaTFxOGsydmxyb2h1eWl0bnkifQ._bQrF0MOqM2o26dLMTYb1A'
+                  '********************************************************************'
             },
           ),
           MarkerLayerOptions(
