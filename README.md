@@ -1,6 +1,6 @@
 # whereami
 
-A new Flutter project.
+Super simple app to find out where you are.
 
 ## Getting Started
 
