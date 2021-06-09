@@ -1,6 +1,6 @@
 # whereami
 
-Super simple app to find out where you are. (Copied atbyron's idea and made it worse.)
+Super simple app to find out where you are. (Copied austinbyron's idea and made it worse.)
 
 ## Getting Started
 
